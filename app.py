@@ -7,6 +7,10 @@ from sklearn.naive_bayes import MultinomialNB
 # Load dataset
 df = pd.read_csv("food_data.csv")
 
+# Display sample data
+st.subheader("📦 Sample of your food data")
+st.dataframe(df.head())
+
 # Train model
 model = Pipeline([
     ('vectorizer', CountVectorizer()),
@@ -14,7 +18,7 @@ model = Pipeline([
 ])
 model.fit(df['food_name'], df['category'])
 
-# Prediction with confidence
+# Prediction function
 def classify_with_confidence(food):
     probs = model.predict_proba([food])[0]
     prediction = model.predict([food])[0]
@@ -25,7 +29,10 @@ def classify_with_confidence(food):
 st.markdown("<h1 style='text-align: center; color: green;'>SMART GROCERY ADVISOR</h1>", unsafe_allow_html=True)
 st.image("https://img.icons8.com/emoji/96/robot-emoji.png", width=80)
 
-food = st.text_input("Enter a food to classify:")
+sample_foods = df['food_name'].sample(min(5, len(df))).tolist()
+st.caption("💡 Try one of these: " + ", ".join(sample_foods))
+
+food = st.text_input("🍎 Enter a food name to classify:")
 
 if st.button("CLASSIFY"):
     if food:
@@ -33,6 +40,6 @@ if st.button("CLASSIFY"):
         if conf < 0.5:
             st.warning("🤖 Hmm... I'm not sure about this food.")
         else:
-            st.success(f"✅ {food.capitalize()} is classified as: **{pred}** ({conf:.2f})")
+            st.success(f"✅ **{food.capitalize()}** is classified as: **{pred}** (confidence: {conf:.2f})")
     else:
-        st.warning("Please enter a food name.")
+        st.warning("⚠️ Please enter a food name.")
