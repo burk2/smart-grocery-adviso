@@ -1,0 +1,107 @@
+food_name,category
+ugali,Staple
+githeri,Staple
+mukimo,Staple
+pilau,Staple
+biriani,Staple
+matoke,Staple
+chapati,Baked Good
+mandazi,Baked Good
+bread,Baked Good
+brown bread,Baked Good
+white bread,Baked Good
+cake,Baked Good
+muffin,Baked Good
+samosa,Snack
+bhajia,Snack
+mutura,Snack
+smocha,Snack
+chips mwitu,Snack
+viazi karai,Snack
+popcorn,Snack
+crisps,Snack
+sukuma wiki,Vegetable
+managu,Vegetable
+terere,Vegetable
+cabbage,Vegetable
+spinach,Vegetable
+kunde,Vegetable
+pumpkin leaves,Vegetable
+carrot,Vegetable
+onion,Vegetable
+tomato,Vegetable
+garlic,Vegetable
+ginger,Vegetable
+green pepper,Vegetable
+hoho,Vegetable
+avocado,Fruit
+mango,Fruit
+banana,Fruit
+orange,Fruit
+pawpaw,Fruit
+pineapple,Fruit
+passion fruit,Fruit
+watermelon,Fruit
+tangerine,Fruit
+guava,Fruit
+sugarcane,Fruit
+lemon,Fruit
+kiwi,Fruit
+apple,Fruit
+maize,Grain
+beans,Grain
+njahi,Grain
+rice,Grain
+millet,Grain
+sorghum,Grain
+green grams,Grain
+pasta,Grain
+spaghetti,Grain
+arrowroots,Root
+cassava,Root
+sweet potatoes,Root
+yams,Root
+potatoes,Root
+beef,Protein
+kienyeji chicken,Protein
+broiler chicken,Protein
+nyama choma,Protein
+mshikaki,Protein
+matumbo,Protein
+omena,Protein
+tilapia,Protein
+fish fingers,Protein
+eggs,Protein
+ndengu,Protein
+tofu,Protein
+milk,Dairy
+maziwa mala,Dairy
+yogurt,Dairy
+cheese,Dairy
+butter,Dairy
+cream,Dairy
+ice cream,Dessert
+fruit salad,Dessert
+pudding,Dessert
+rolex,Street Food
+chapati smokie,Street Food
+boiled maize,Street Food
+grilled maize,Street Food
+tea,Beverage
+chai ya maziwa,Beverage
+black tea,Beverage
+coffee,Beverage
+soda,Beverage
+juice,Beverage
+water,Beverage
+energy drink,Beverage
+uji,Beverage
+maji ya madafu,Beverage
+ketchup,Condiment
+mayonnaise,Condiment
+soy sauce,Condiment
+vinegar,Condiment
+pilipili sauce,Condiment
+peanut butter,Spread
+honey,Spread
+blueband,Spread
