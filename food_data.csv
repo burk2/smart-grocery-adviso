@@ -1,0 +1,56 @@
+food_name,category
+ugali,Staple
+githeri,Staple
+pilau,Staple
+matoke,Staple
+biriani,Staple
+mandazi,Baked Good
+chapati,Baked Good
+cake,Baked Good
+bread,Baked Good
+muffin,Baked Good
+samosa,Snack
+bhajia,Snack
+mutura,Snack
+smocha,Snack
+popcorn,Snack
+spinach,Vegetable
+cabbage,Vegetable
+terere,Vegetable
+managu,Vegetable
+tomato,Vegetable
+avocado,Fruit
+banana,Fruit
+pineapple,Fruit
+mango,Fruit
+guava,Fruit
+beef,Protein
+kienyeji chicken,Protein
+omena,Protein
+eggs,Protein
+tofu,Protein
+milk,Dairy
+yogurt,Dairy
+cheese,Dairy
+cream,Dairy
+ice cream,Dessert
+fruit salad,Dessert
+pudding,Dessert
+cake slice,Dessert
+black tea,Beverage
+coffee,Beverage
+juice,Beverage
+water,Beverage
+soda,Beverage
+mayonnaise,Condiment
+soy sauce,Condiment
+ketchup,Condiment
+vinegar,Condiment
+honey,Spread
+peanut butter,Spread
+blueband,Spread
+tusker,Alcoholic Beverage
+mnazi,Alcoholic Beverage
+chang'aa,Alcoholic Beverage
+smirnoff vodka,Alcoholic Beverage
+four cousins wine,Alcoholic Beverage
