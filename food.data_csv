@@ -907,21 +907,61 @@ mandazi plate,Baked Good
 bread extra,Baked Good
 bread extra,Baked Good
 pain au chocolat bowl,Baked Good
-bread combo,Baked Good
-pain au chocolat dish,Baked Good
-scones extra,Baked Good
-mandazi scoop,Baked Good
-muffin plate,Baked Good
-mandazi plate,Baked Good
-babka dish,Baked Good
-brioche combo,Baked Good
-mandazi extra,Baked Good
-muffin scoop,Baked Good
-brioche special,Baked Good
-babka bowl,Baked Good
-bagel scoop,Baked Good
-cake extra,Baked Good
-babka meal,Baked Good 
+chicken,Protein
+beef,Protein
+pork,Protein
+lamb,Protein
+goat meat,Protein
+turkey,Protein
+duck,Protein
+rabbit,Protein
+venison,Protein
+salmon,Protein
+tuna,Protein
+tilapia,Protein
+sardines,Protein
+mackerel,Protein
+trout,Protein
+cod,Protein
+catfish,Protein
+snapper,Protein
+shrimp,Protein
+crab,Protein
+lobster,Protein
+clams,Protein
+mussels,Protein
+oysters,Protein
+eggs,Protein
+milk,Dairy
+cheese,Dairy
+yogurt,Dairy
+cottage cheese,Dairy
+kidney beans,Protein
+black beans,Protein
+navy beans,Protein
+lentils,Protein
+chickpeas,Protein
+peas,Protein
+soybeans,Protein
+tofu,Protein
+tempeh,Protein
+edamame,Protein
+quinoa,Protein
+seitan,Protein
+hemp seeds,Protein
+chia seeds,Protein
+pumpkin seeds,Protein
+sunflower seeds,Protein
+almonds,Protein
+peanuts,Protein
+peanut butter,Protein
+walnuts,Protein
+cashews,Protein
+protein powder,Protein
+crickets,Protein
+mealworms,Protein
+spirulina,Protein
+omena, Protein 
 apple,Fruit
 banana,Fruit
 orange,Fruit
@@ -988,64 +1028,5 @@ fennel,Vegetable
 mushroom,Vegetable
 scallion,Vegetable
 shallot,Vegetable
-mandazi plate,Baked Good
-scones dish,Baked Good
-babka meal,Baked Good
-bread deluxe,Baked Good
-muffin extra,Baked Good
-brioche plate,Baked Good
-chicken,Protein
-beef,Protein
-pork,Protein
-lamb,Protein
-goat meat,Protein
-turkey,Protein
-duck,Protein
-rabbit,Protein
-venison,Protein
-salmon,Protein
-tuna,Protein
-tilapia,Protein
-sardines,Protein
-mackerel,Protein
-trout,Protein
-cod,Protein
-catfish,Protein
-snapper,Protein
-shrimp,Protein
-crab,Protein
-lobster,Protein
-clams,Protein
-mussels,Protein
-oysters,Protein
-eggs,Protein
-milk,Dairy
-cheese,Dairy
-yogurt,Dairy
-cottage cheese,Dairy
-kidney beans,Protein
-black beans,Protein
-navy beans,Protein
-lentils,Protein
-chickpeas,Protein
-peas,Protein
-soybeans,Protein
-tofu,Protein
-tempeh,Protein
-edamame,Protein
-quinoa,Protein
-seitan,Protein
-hemp seeds,Protein
-chia seeds,Protein
-pumpkin seeds,Protein
-sunflower seeds,Protein
-almonds,Protein
-peanuts,Protein
-peanut butter,Protein
-walnuts,Protein
-cashews,Protein
-protein powder,Protein
-crickets,Protein
-mealworms,Protein
-spirulina,Protein
-  
+
+
